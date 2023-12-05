@@ -3,8 +3,8 @@ Staff Security Engineer
 
 I have been a security engineer for 26 years. I am a beekeeper, brew mead and like to write code for security conference badges.
 
-* 🌍  I'm based in Seattle
-* - 🔭 I’m currently working on 
+- 🌍  I'm based in Seattle
+- 🔭 I’m currently working on 
   -  https://adventofcode.com/2023
 - 🌱 I’m currently learning
   - always something
