@@ -5,7 +5,7 @@ I have been a security engineer for 26 years. I am a beekeeper, brew mead and li
 
 - 🌍  I'm based very far west of Seattle
 - 🔭 I’m currently working on 
-  -  https://adventofcode.com/2023
+  -  Badge firmware for https://cackalackycon.org/
 - 🌱 I’m currently learning
   - always something
 - 📫 How to reach me: ...
