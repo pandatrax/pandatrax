@@ -4,7 +4,8 @@ Staff Security Engineer
 I have been a security engineer for 28 years. I am a beekeeper, brew mead and like to write code for security conference badges.
 
 - 🌍  I'm based very far west of Seattle
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+  -  [Training](https://seventy48.pandatrax.org/) for the [Seventy48](https://seventy48.com/) and the [WA360](https://nwmaritime.org/nwmc-events/races-cruises/wa360/)
   -  [Badge firmware](https://github.com/lockfale/cackalackybadgyfirmware2025) for https://cackalackycon.org/
 - 🌱 I’m currently learning
   - always something
