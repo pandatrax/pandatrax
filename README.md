@@ -1,7 +1,7 @@
 Staff Security Engineer
 -----------------------
 
-I have been a security engineer for 28 years. I am a beekeeper, brew mead and like to write code for security conference badges.
+I have been a security engineer for 28 years. I am a kayaker, beekeeper, brew mead and like to write code for security conference badges.
 
 - 🌍  I'm based very far west of Seattle
 - Just completed the [Seventy48](https://seventy48.com/). You can read my [recollection](https://seventy48.pandatrax.org/race/seventy48/2025/06/08/seventy48.html).
